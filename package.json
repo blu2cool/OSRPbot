@@ -1,0 +1,27 @@
+{
+  "name": "global-discord-ban",
+  "version": "1.0.0",
+  "description": "Global Ban Discord Bot by Blu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blu",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "await": "^0.2.6",
+    "better": "^0.1.0",
+    "better-sqlite3": "^11.0.0",
+    "discord-player": "^6.6.10",
+    "discord.js": "^14.16.2",
+    "express": "^4.18.1",
+    "fs": "^0.0.2",
+    "libxmljs": "^1.0.11",
+    "lodash.uniqwith": "^4.5.0",
+    "node-gyp": "^10.1.0",
+    "nodejs": "^0.0.0",
+    "quick.db": "^9.1.7",
+    "sqlite3": "^5.1.7"
+  }
+}
